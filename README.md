@@ -1,6 +1,6 @@
 # Vacation, Weather, and Google Maps - A combination for happy travelers
 ### The PlanMyTrip app has been improved through recommendations from Beta testers. 
-Those changes include: 
+Improvements: 
 1. Add the current weather description (clear, cloudy, etc) to the weather data already developed.
 2. Add an input statement to filter the data for traveler's preferences (preferred temperatures; min and max.
    * This will narrow the list of potential travel destinations and include nearby hotels.  
